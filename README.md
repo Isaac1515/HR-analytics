@@ -17,3 +17,16 @@ By leveraging these insights, the HR team can tailor their strategies and initia
 - Created DAX measure to calculate the percentage of employee presence. This measure will help in determining the proportion of employees who are currently present in the workplace. By utilizing this measure, AtliQ can gain valuable insights into the attendance patterns within the organization, enabling them to analyze workforce dynamics and make informed decisions
 
 - Created a DAX measure to calculate the percentage of sick leave count. This measure will enable us to understand the proportion of employees taking sick leave with respect to the total workforce. By utilizing this measure, we can gain insights into absenteeism trends, which can help us identify patterns, address potential issues, and implement strategies to support employee well-being.
+
+
+The overall HR analytics Dashboard view:-
+![overall](https://github.com/Isaac1515/HR-analytics/assets/73594051/0858a016-776f-4559-919d-c33633ebfbd8)
+
+The HR analytics Dashboard month view (April):-
+
+![month wise](https://github.com/Isaac1515/HR-analytics/assets/73594051/ee0cb7ff-2760-4975-9030-c4fcfe610c32)
+
+
+
+
+
