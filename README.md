@@ -1,4 +1,4 @@
-#HR analytics - AtliQ Grands Company 
+HR analytics - AtliQ Grands Company 
 
 This project aims to facilitate the HR team at AtliQ with valuable insights into employee behaviour and preferences, enhancing productivity. Through the implementation of a comprehensive dashboard, we have valuable KPIs at a glance. Some of the ones in this project are:- 
 
